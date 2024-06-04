@@ -1,5 +1,6 @@
 ![test_open_stream_GIF](images/test_open_stream_GIF.gif)
 
+NOTE: I am aware that the page is only scrolled down once. Please see code and comments.
 
 project_root/
 │
